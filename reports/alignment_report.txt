@@ -1,0 +1,86 @@
+Total samples: 21933
+PCA reduced cosine: -0.0000
+Ridge cosine: 0.7723
+Ridge MSE: 0.4026
+Kernel Ridge cosine: 0.9904
+Kernel Ridge MSE: 0.0227
+
+Category-wise Results:
+baseball glove: Ridge 0.852, Kernel 0.993
+apple: Ridge 0.841, Kernel 0.995
+laptop: Ridge 0.841, Kernel 0.995
+banana: Ridge 0.837, Kernel 0.996
+pizza: Ridge 0.833, Kernel 0.996
+baseball bat: Ridge 0.831, Kernel 0.994
+mouse: Ridge 0.831, Kernel 0.996
+zebra: Ridge 0.828, Kernel 0.991
+train: Ridge 0.817, Kernel 0.989
+sheep: Ridge 0.815, Kernel 0.993
+backpack: Ridge 0.815, Kernel 0.994
+refrigerator: Ridge 0.814, Kernel 0.991
+suitcase: Ridge 0.813, Kernel 0.998
+toilet: Ridge 0.812, Kernel 0.994
+sandwich: Ridge 0.811, Kernel 0.996
+spoon: Ridge 0.805, Kernel 0.993
+elephant: Ridge 0.802, Kernel 0.993
+orange: Ridge 0.802, Kernel 0.995
+bowl: Ridge 0.802, Kernel 0.995
+scissors: Ridge 0.799, Kernel 0.995
+cup: Ridge 0.798, Kernel 0.995
+microwave: Ridge 0.798, Kernel 0.995
+broccoli: Ridge 0.796, Kernel 0.993
+sports ball: Ridge 0.796, Kernel 0.990
+giraffe: Ridge 0.795, Kernel 0.992
+oven: Ridge 0.795, Kernel 0.996
+couch: Ridge 0.794, Kernel 0.991
+cow: Ridge 0.791, Kernel 0.990
+donut: Ridge 0.790, Kernel 0.996
+tv: Ridge 0.788, Kernel 0.992
+skis: Ridge 0.784, Kernel 0.990
+horse: Ridge 0.783, Kernel 0.991
+bus: Ridge 0.782, Kernel 0.988
+book: Ridge 0.782, Kernel 0.997
+boat: Ridge 0.781, Kernel 0.988
+bottle: Ridge 0.780, Kernel 0.991
+carrot: Ridge 0.780, Kernel 0.994
+snowboard: Ridge 0.778, Kernel 0.992
+car: Ridge 0.778, Kernel 0.988
+surfboard: Ridge 0.778, Kernel 0.989
+cell phone: Ridge 0.777, Kernel 0.992
+skateboard: Ridge 0.772, Kernel 0.988
+keyboard: Ridge 0.771, Kernel 0.994
+airplane: Ridge 0.771, Kernel 0.990
+stop sign: Ridge 0.770, Kernel 0.983
+cake: Ridge 0.767, Kernel 0.997
+chair: Ridge 0.766, Kernel 0.991
+person: Ridge 0.766, Kernel 0.989
+motorcycle: Ridge 0.764, Kernel 0.990
+bicycle: Ridge 0.763, Kernel 0.988
+potted plant: Ridge 0.763, Kernel 0.992
+fork: Ridge 0.761, Kernel 0.994
+knife: Ridge 0.761, Kernel 0.993
+tie: Ridge 0.759, Kernel 0.992
+bench: Ridge 0.758, Kernel 0.993
+remote: Ridge 0.757, Kernel 0.995
+handbag: Ridge 0.756, Kernel 0.989
+clock: Ridge 0.753, Kernel 0.988
+bed: Ridge 0.752, Kernel 0.994
+traffic light: Ridge 0.751, Kernel 0.985
+tennis racket: Ridge 0.749, Kernel 0.991
+toothbrush: Ridge 0.748, Kernel 0.990
+wine glass: Ridge 0.748, Kernel 0.992
+dining table: Ridge 0.748, Kernel 0.994
+bear: Ridge 0.746, Kernel 0.997
+kite: Ridge 0.745, Kernel 0.982
+teddy bear: Ridge 0.743, Kernel 0.995
+bird: Ridge 0.742, Kernel 0.989
+dog: Ridge 0.740, Kernel 0.991
+parking meter: Ridge 0.734, Kernel 0.995
+hot dog: Ridge 0.731, Kernel 0.990
+sink: Ridge 0.723, Kernel 0.992
+umbrella: Ridge 0.720, Kernel 0.986
+cat: Ridge 0.713, Kernel 0.994
+vase: Ridge 0.712, Kernel 0.997
+fire hydrant: Ridge 0.704, Kernel 0.989
+truck: Ridge 0.690, Kernel 0.987
+frisbee: Ridge 0.643, Kernel 0.995
