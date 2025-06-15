@@ -1,4 +1,4 @@
-# Object-Level Vision-Language Alignment (MATH_THESIS)
+# Object-Level Vision-Language Alignment
 
 This repository contains the full experimental pipeline and analysis code used for object-level vision-language alignment experiments, as presented in the thesis. We investigate the alignment structure between DINOv2 vision embeddings and CLIP language embeddings on object crops extracted from COCO 2017.
 
