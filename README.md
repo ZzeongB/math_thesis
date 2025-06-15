@@ -121,13 +121,3 @@ model, preprocess = clip.load("ViT-B/32")
 * Vision embeddings: DINOv2-ViT-L/14 (768D)
 * Language embeddings: CLIP-ViT-B/32 (512D)
 * Alignment models: PCA + Ridge Regression + Kernel Ridge Regression
-
----
-
-## Contact
-
-For any questions or reproduction inquiries, please contact:
-
-**Author:** Jeongin Park
-**Institution:** Seoul National University
-**Project:** Undergraduate Thesis, Department of Mathematical Sciences
